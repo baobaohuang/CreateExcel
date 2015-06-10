@@ -1,7 +1,7 @@
-
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateExcel", "CreateExcel\CreateExcel.csproj", "{A66B0718-167C-40AD-AC81-A8E511B0DA95}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateExcel", "CreateExcel.csproj", "{A66B0718-167C-40AD-AC81-A8E511B0DA95}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

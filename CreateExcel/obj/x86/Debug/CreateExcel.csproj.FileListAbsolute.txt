@@ -1,0 +1,1 @@
+C:\Users\frankhuang\Documents\GitHub\CreateExcel\CreateExcel\obj\x86\Debug\CreateExcel.csproj.ResolveComReference.cache
